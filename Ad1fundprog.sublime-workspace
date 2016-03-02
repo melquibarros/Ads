@@ -1,0 +1,408 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"b	Tag"
+			],
+			[
+				"elb",
+				"elb"
+			],
+			[
+				"de",
+				"deregister"
+			],
+			[
+				"re",
+				"register"
+			],
+			[
+				"vb",
+				"vb"
+			],
+			[
+				"SCRIPT",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Q1.pas",
+			"settings":
+			{
+				"buffer_size": 633,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Pascal Snippets/fpc.sublime-build",
+					""
+				],
+				[
+					"Packages/Pascal Snippets/fpc.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Pascal Snippets/fpc.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "package control:Ins",
+		"selected_items":
+		[
+			[
+				"package control:Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/admin/Documents/AD1FundaProg/Q1.o",
+		"/C/Users/admin/Documents/mps/php.ini.custom",
+		"/C/Users/admin/Documents/mps/php.ini2",
+		"/C/Users/admin/Documents/Micceli/Headers.txt",
+		"/C/Users/admin/Documents/mps/php.ini",
+		"/C/Users/admin/Documents/Micceli/6º E-mail.txt",
+		"/C/Users/admin/Documents/Micceli/5º E-mail.txt",
+		"/C/Users/admin/Documents/Micceli/4º E-mail.txt",
+		"/C/Users/admin/Documents/Micceli/3º e-mail.txt",
+		"/C/Users/admin/Documents/Micceli/2ª email.txt",
+		"/C/Users/admin/Documents/Micceli/1º Email.txt",
+		"/C/Users/admin/Desktop/opsworksexpresso.ppk",
+		"/C/Users/admin/Desktop/teste1.ppk",
+		"/C/Users/admin/Desktop/teste2.ppk",
+		"/C/Users/admin/Google Drive/BrasilCT/brasilct.pem",
+		"/C/Users/admin/Google Drive/BrasilCT/brasilct.ppk",
+		"/C/Users/admin/Desktop/rogerio_ipiranga.ppk",
+		"/C/Users/admin/AppData/Roaming/Skype/My Skype Received Files/rogerio_ipiranga.ppk",
+		"/C/Users/admin/Desktop/report-feed-export-2015-12-28-1210-152671c0cb-v2-pt1.csv",
+		"/C/Users/admin/Desktop/report-feed-export-2015-12-28-1210-152671c0cb-v2-pt2.csv",
+		"/C/Users/admin/Documents/export full zendesk/ipsense-20151228/tickets.xml",
+		"/C/Users/admin/Desktop/428007511630_elasticloadbalancing_sa-east-1_elb-linux-prod_20151230T1300Z_54.232.231.193_2ijorw9i.log",
+		"/C/Users/admin/Documents/chef keys/chef-starter/chef-repo/.chef/knife.rb",
+		"/C/Users/admin/Documents/devops/packer-templates/application-server.json",
+		"/C/Users/admin/Google Drive/filter_sintax_VPC_flow_logs.txt",
+		"/C/Users/admin/Documents/permissõesrjconsultores.sh",
+		"/C/Users/admin/Documents/linuxne/Vagrantfile",
+		"/C/Users/admin/Documents/linux/Vagrantfile",
+		"/C/Users/admin/Documents/devops/packer-templates/scripts/jenkins.sh",
+		"/C/Users/admin/Documents/devops/packer-templates/control-server.json",
+		"/C/Users/admin/Documents/devops/README.md",
+		"/C/Users/admin/Documents/devops/jenkins-config/install_jenkins_plugins.sh",
+		"/C/Users/admin/Documents/devops/packer-templates/aws/ubuntu-14.04.3-server-i386-appserver_aws.box",
+		"/C/Users/admin/Documents/j3dump",
+		"/C/Users/admin/Documents/devops/packer-templates/scripts/cleanup.sh",
+		"/C/Program Files/Oracle/VirtualBox/VBoxDDR0.r0",
+		"/C/Users/admin/Documents/devops/packer-templates/scripts/virtualbox.sh",
+		"/C/Users/admin/Documents/devops/packer-templates/http/preseed.cfg",
+		"/C/Users/admin/Desktop/resposta_instace_drive_aws",
+		"/C/Users/admin/Google Drive/Wsoma/wsoma-chaves-privada/crmzen_pem.key",
+		"/C/Users/admin/Google Drive/Wsoma/Certificado/gd_bundle-g2-g1.pem",
+		"/C/Users/admin/Google Drive/Wsoma/Certificado/e80a535f14c472b5.pem",
+		"/C/Users/admin/Downloads/lab-5-exploring-cloudformation-student.template",
+		"/C/Users/admin/Desktop/cpan_teste.txt",
+		"/C/Users/admin/Downloads/raizes.ca-bundle",
+		"/C/Users/admin/Google Drive/server.key",
+		"/C/Users/admin/Google Drive/mycert.pem",
+		"/C/Users/admin/Desktop/Cpan_rjconsul.txt",
+		"/C/Users/admin/Documents/udagit/reflections/lesson_2_reflections.txt",
+		"/c/Users/admin/documents/udagit/reflections/$@",
+		"/C/Users/admin/Documents/udagit/reflections/lesson_1_reflections",
+		"/C/Users/admin/Documents/.bash_profile",
+		"/C/Users/admin/.gitconfig",
+		"/C/Users/admin/Documents/udagit/lesson_1_reflections",
+		"/C/Users/admin/Documents/Udagit/reflections/lesson-1_reflections.txt",
+		"/C/Users/admin/Documents/teste/asteroids_old.js",
+		"/C/Users/admin/Documents/teste/asteroids_new.js",
+		"/C/Users/admin/Documents/teste/reflections/lesson-1_reflections.txt",
+		"/C/Users/admin/Documents/linux/ipsense_services.py",
+		"/C/Users/admin/Documents/linux/Start_Stop_instance.py",
+		"/C/Users/admin/Documents/scripts/Vagrantfile",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/admin/Documents/linux/register_deregister.py",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"error_log",
+			"display errors",
+			"errors",
+			"session.gc_probability",
+			"session.use_strict_mode",
+			"mysqli.allow_local_infile",
+			"+mysqli.allow_local_infile",
+			"mysql.connect_timeout = ",
+			"mysql.defa",
+			"timezone",
+			"enable_dl",
+			"include_path",
+			"error_log ",
+			"display_startup_errors",
+			"functions",
+			"precision",
+			"serialize precision",
+			"short",
+			"cmcorp",
+			"\"Closed\"",
+			"Closed",
+			"closed",
+			"open",
+			"On hold",
+			"on hold",
+			"Mail::",
+			"install Mail::",
+			"indent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"Fechado\"",
+			"Fechado"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Q1.pas",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								381,
+								381
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Pascal/Pascal.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 355.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 62.0
+	},
+	"pinned_build_system": "",
+	"project": "Ad1fundprog.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\admin\\Documents\\udagit\\udagit.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
