@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"o",
+				"output"
+			],
+			[
 				"b",
 				"b	Tag"
 			],
@@ -32,18 +36,22 @@
 	"buffers":
 	[
 		{
-			"file": "Q1.pas",
+			"contents": "program Q2(input{teclado},output{video});\n	\nprocedure Mdistancia(x,y:Single);\n	var\n		ox, oy, dist, maior: Single;\n		c : Single{controle};\n	begin\n		ox := 0;\n		oy := 0;\n		maior := 0;\n		c := 0;\n		\n				\n		while c < 1 do\n		begin\n			write(output, 'Digite o ponto X: ');\n			readln(input,x);\n			write(output, 'Digite o ponto Y: ');\n			readln(input,y);\n			if x = 0 then\n			begin\n				if y = 0 then\n				begin\n					Break;\n				end;\n			end;\n			dist := sqrt((x-ox)*(x-ox)+(y-oy)*(y-oy));\n			if dist > maior then\n				begin\n					maior := dist\n\n				end;\n		end;\n		Round\n		write(output, 'Ponto mais distante:');\n\n	end;\nvar\n	x, y: Single;{pontos a serem recebidos}\nbegin\n	Mdistancia(x,y);\n	readln();\nend.\n",
+			"file": "Q2/Q2.pas",
+			"file_size": 717,
+			"file_write_time": 131018409851848878,
 			"settings":
 			{
-				"buffer_size": 633,
+				"buffer_size": 684,
 				"line_ending": "Windows"
 			}
 		},
 		{
+			"file": "/C/Users/admin/Documents/New folder/AP1-Q3.pas",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
+				"buffer_size": 580,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -113,8 +121,20 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/admin/Documents/AD1FundaProg",
+		"/C/Users/admin/Documents/AD1FundaProg/Q1"
+	],
 	"file_history":
 	[
+		"/C/Users/admin/Documents/New folder/AP1-Q2.pas",
+		"/C/Users/admin/Documents/New folder/AP1-Q1.pas",
+		"/C/Users/admin/Documents/AD1FundaProg/Q1/Q1.pas",
+		"/C/Users/admin/Documents/AD1FundaProg/Q1.pas",
+		"/C/Users/admin/Documents/nutricritical/vpn-AWS-Fortigate-GUI.txt",
+		"/C/Users/admin/Downloads/ipsense.ovpn",
+		"/C/Users/admin/Documents/AD1FundaProg/Ad1fundprog.sublime-project",
 		"/C/Users/admin/Documents/AD1FundaProg/Q1.o",
 		"/C/Users/admin/Documents/mps/php.ini.custom",
 		"/C/Users/admin/Documents/mps/php.ini2",
@@ -185,13 +205,14 @@
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
 		"height": 96.0,
 		"where_history":
 		[
+			"Q1.pas",
 			""
 		]
 	},
@@ -200,6 +221,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Double",
+			"integer",
+			"Extended",
+			"integer",
+			"Real",
+			"Amazon-IKE-vpn-176fb40a-1",
+			"phase1-vpn-176fb40a-0",
+			"10.0.0.0/16",
 			"error_log",
 			"display errors",
 			"errors",
@@ -232,15 +261,24 @@
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"integer",
+			"Single",
+			"Double",
+			"integer",
+			"Extended",
+			"integer",
+			"AWS-1",
+			"AWS-0",
+			"172.31.0.0/16",
 			"\"Fechado\"",
 			"Fechado"
 		],
 		"reverse": false,
-		"show_context": true,
-		"use_buffer2": true,
+		"show_context": false,
+		"use_buffer2": false,
 		"whole_word": false,
 		"wrap": true
 	},
@@ -252,19 +290,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "Q1.pas",
+					"file": "Q2/Q2.pas",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 633,
+						"buffer_size": 684,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								381,
-								381
+								283,
+								283
 							]
 						],
 						"settings":
@@ -273,7 +311,7 @@
 							"syntax": "Packages/Pascal/Pascal.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 84.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -281,10 +319,11 @@
 				},
 				{
 					"buffer": 1,
+					"file": "/C/Users/admin/Documents/New folder/AP1-Q3.pas",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 580,
 						"regions":
 						{
 						},
@@ -298,9 +337,13 @@
 						"settings":
 						{
 							"incomplete_sync": null,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pascal/Pascal.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
+						"translation.x": -0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -316,7 +359,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 30.0
 	},
 	"layout":
 	{
@@ -357,7 +400,7 @@
 	"project": "Ad1fundprog.sublime-project",
 	"replace":
 	{
-		"height": 40.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":

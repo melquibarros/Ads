@@ -1,8 +1,8 @@
 program Q1(input{teclado}, output{video});
 
-procedure valor(var num: Integer);
+procedure valor(var num: integer);
 begin
-	write(output, 'digite um valor igual ou maior que 0: ');
+	write(output, 'digite um valor igual ou maior que 1: ');
 	readln(input, num);
 	while num < 1 do
 	begin
@@ -10,9 +10,9 @@ begin
 		readln(num);		
 	end;
 end;
-procedure resposta(num: Integer);
+procedure resposta(num: integer);
 var
-	control, mult, i, line: Integer;
+	control, mult, i, line: integer;
 begin
 	line := 0;
 	for control := num downto 1 do
@@ -27,7 +27,7 @@ begin
 	end;
 end;
 var
-	num: Integer;
+	num: integer;
 begin
 	valor(num);
 	resposta(num);
